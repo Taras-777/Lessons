@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ua.lviv.iot</groupId>
-	<artifactId>lessonwithzenyk</artifactId>
+	<artifactId>lesson</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>lessonwithzenyk</name>
 	<description>Demo project for Spring Boot</description>
